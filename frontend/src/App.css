@@ -19,7 +19,7 @@ body {
 
 /* Header */
 .app-header {
-  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  background: linear-gradient(135deg, #06b6d4 0%, #3b82f6 100%);
   color: white;
   padding: 2rem;
   text-align: center;
@@ -77,8 +77,8 @@ body {
 
 .search-input:focus {
   outline: none;
-  border-color: #667eea;
-  box-shadow: 0 0 0 3px rgba(102, 126, 234, 0.1);
+  border-color: #3b82f6;
+  box-shadow: 0 0 0 3px rgba(59, 130, 246, 0.12);
 }
 
 .clear-button {
@@ -107,7 +107,7 @@ body {
 
 .search-button {
   padding: 0.75rem 1.5rem;
-  background: #667eea;
+  background: #3b82f6;
   color: white;
   border: none;
   border-radius: 8px;
@@ -119,9 +119,9 @@ body {
 }
 
 .search-button:hover {
-  background: #5568d3;
+  background: #2563eb;
   transform: translateY(-1px);
-  box-shadow: 0 4px 12px rgba(102, 126, 234, 0.3);
+  box-shadow: 0 4px 12px rgba(59, 130, 246, 0.3);
 }
 
 .search-button:active {
@@ -162,7 +162,7 @@ body {
 
 .filter-group select:focus {
   outline: none;
-  border-color: #667eea;
+  border-color: #3b82f6;
 }
 
 /* Restaurant Grid */
@@ -204,7 +204,7 @@ body {
 }
 
 .category {
-  color: #667eea;
+  color: #3b82f6;
   font-weight: 600;
   margin-bottom: 0.5rem;
   display: inline-block;
@@ -252,7 +252,7 @@ body {
 
 .back-button {
   padding: 0.5rem 1rem;
-  background: #667eea;
+  background: #06b6d4;
   color: white;
   border: none;
   border-radius: 6px;
@@ -262,7 +262,7 @@ body {
 }
 
 .back-button:hover {
-  background: #5568d3;
+  background: #0891b2;
 }
 
 .detail-header {
@@ -339,7 +339,7 @@ body {
 .form-group select:focus,
 .form-group textarea:focus {
   outline: none;
-  border-color: #667eea;
+  border-color: #3b82f6;
 }
 
 .form-group textarea {
@@ -371,7 +371,7 @@ body {
 
 .review-form button {
   padding: 0.75rem 2rem;
-  background: #667eea;
+  background: #3b82f6;
   color: white;
   border: none;
   border-radius: 6px;
@@ -382,7 +382,7 @@ body {
 }
 
 .review-form button:hover {
-  background: #5568d3;
+  background: #2563eb;
 }
 
 .review-form button:disabled {
@@ -405,7 +405,7 @@ body {
   padding: 1.5rem;
   border-radius: 8px;
   margin-bottom: 1rem;
-  border-left: 4px solid #667eea;
+  border-left: 4px solid #3b82f6;
 }
 
 .review-header {

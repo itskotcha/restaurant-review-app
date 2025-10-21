@@ -9,7 +9,7 @@
     "phone": "02-123-4567",
     "image": "https://images.unsplash.com/photo-1559847844-5315695dadae?w=800",
     "averageRating": 5,
-    "totalReviews": 1,
+    "totalReviews": 0,
     "openHours": "10:00-20:00",
     "createdAt": "2024-01-15T10:00:00.000Z"
   },
@@ -22,8 +22,8 @@
     "priceRange": 3,
     "phone": "02-234-5678",
     "image": "https://images.unsplash.com/photo-1579584425555-c3ce17fd4351?w=800",
-    "averageRating": 0,
-    "totalReviews": 0,
+    "averageRating": 5,
+    "totalReviews": 1,
     "openHours": "11:00-22:00",
     "createdAt": "2024-01-10T10:00:00.000Z"
   },
@@ -50,7 +50,7 @@
     "priceRange": 1,
     "phone": "02-456-7890",
     "image": "https://images.unsplash.com/photo-1569562211093-4ed0d0758f12?w=800",
-    "averageRating": 5,
+    "averageRating": 4,
     "totalReviews": 1,
     "openHours": "06:00-15:00",
     "createdAt": "2024-01-08T10:00:00.000Z"
@@ -92,8 +92,8 @@
     "priceRange": 2,
     "phone": "02-789-0123",
     "image": "https://images.unsplash.com/photo-1557872943-16a5ac26437e?w=800",
-    "averageRating": 0,
-    "totalReviews": 0,
+    "averageRating": 5,
+    "totalReviews": 1,
     "openHours": "11:00-21:00",
     "createdAt": "2024-01-18T10:00:00.000Z"
   },
@@ -106,8 +106,8 @@
     "priceRange": 1,
     "phone": "02-890-1234",
     "image": "https://images.unsplash.com/photo-1565557623262-b51c2513a641?w=800",
-    "averageRating": 0,
-    "totalReviews": 0,
+    "averageRating": 5,
+    "totalReviews": 1,
     "openHours": "08:00-18:00",
     "createdAt": "2024-01-22T10:00:00.000Z"
   },
@@ -120,8 +120,8 @@
     "priceRange": 3,
     "phone": "02-901-2345",
     "image": "https://images.unsplash.com/photo-1546833999-b9f581a1996d?w=800",
-    "averageRating": 1,
-    "totalReviews": 1,
+    "averageRating": 0,
+    "totalReviews": 0,
     "openHours": "17:00-23:00",
     "createdAt": "2024-01-25T10:00:00.000Z"
   },
